@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab4Broadcaster</string>
+    <string name="greetings_from_a_distant_app">Greetings from a distant app</string>
+    <string name="broadcast_message">Broadcast Message</string>
 </resources>
